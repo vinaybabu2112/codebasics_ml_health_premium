@@ -33,9 +33,9 @@ To run the project locally:
 git clone https://github.com/vinaybabu2112/codebasics_ml_health_premium.git
 cd codebasics_ml_health_premium
 pip install -r requirements.txt
-Lanch Pycharm or VScode
-Any IDE that supports python
 ````
+Launch Pycharm or VScode 
+Any IDE that supports python
 
 Alternatively, you can test predictions via:
 
