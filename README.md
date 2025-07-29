@@ -1,4 +1,3 @@
-```markdown
 # 🩺 Health Insurance Premium Prediction
 
 > A machine learning project to predict medical insurance premiums using demographic and health data, inspired by the Codebasics ML course.
@@ -15,8 +14,6 @@
 
 ## 📂 Repository Structure
 
-```
-
 codebasics\_ml\_health\_premium/
 ├── data/                   # Raw and processed datasets (e.g. CSV files)
 ├── notebooks/              # Jupyter notebooks for EDA and model development
@@ -25,9 +22,8 @@ codebasics\_ml\_health\_premium/
 ├── requirements.txt        # Dependencies (scikit‑learn, pandas, matplotlib, etc.)
 └── LICENSE                 # Apache‑2.0 or MIT License
 
-````
 
----
+
 
 ## 🧰 Getting Started
 
@@ -37,8 +33,8 @@ To run the project locally:
 git clone https://github.com/vinaybabu2112/codebasics_ml_health_premium.git
 cd codebasics_ml_health_premium
 pip install -r requirements.txt
-# Launch Jupyter to explore analysis and modeling notebooks
-Any IDE 
+Lanch Pycharm or VScode
+Any IDE that supports python
 ````
 
 Alternatively, you can test predictions via:
@@ -47,9 +43,6 @@ Alternatively, you can test predictions via:
 python main.py --age 45 --bmi 28.3 --smoker yes --region northeast --...
 ```
 
-*(Adjust feature names and flags as per your script.)*
-
----
 
 ## 📊 Key Highlights
 
